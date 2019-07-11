@@ -359,4 +359,5 @@ vagrant@vagrant-ubuntu-trusty-64:~$ M-x tetris
 M-x: command not found
 vagrant@vagrant-ubuntu-trusty-64:~$ M-x doctor
 M-x: command not found
-vagrant@vagrant-ubuntu-trusty-64:~$ 
+vagrant@vagrant-ubuntu-trusty-64:~$ $ cd -
+
